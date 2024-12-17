@@ -1,0 +1,494 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  [200~wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim
+   72  sudo apt install vim 
+   73  vim
+   74  cd /
+   75  sudo useradd ragavan 
+   76  sudo passwd ragavan
+   77  su ragavan
+   78  sudo passwd ragavan
+   79  clear
+   80  su user
+   81  clear
+   82  su ragavan 
+   83  clear
+   84  sudo userdel ragavan
+   85  sudo useradd ragavan
+   86  sudo passwd ragavan
+   87  touch file.txt
+   88  su ragavan
+   89  clear
+   90  su ragavan
+   91  ls 
+   92  ls home
+   93  ld
+   94  ls
+   95  cd home
+   96  ls
+   97  ad Desktop
+   98  cd skacas
+   99  ls 
+  100  pwd
+  101  nano script.sh
+  102  ./ script.sh
+  103  chorm +x script.sh
+  104  chmod +x script.sh
+  105  ll 
+  106  ./script.sh
+  107  ll script.sh
+  108  ./ script.sh
+  109  ./script.sh
+  110  nano ./script.sh
+  111  ./script.sh
+  112  chmod 
+  113  chmod +x ./script.sh
+  114  ./script.sh
+  115  clear
+  116  cd Deskstop
+  117  cd Desktop
+  118  clear
+  119  nano ./raga.sh
+  120  ./raga.sh
+  121  chmod +x ./raga.sh
+  122  ./raga.sh
+  123  chmod +x raga.sh
+  124  ./raga.sh
+  125  nano script.sh
+  126  cd ..
+  127  cd /
+  128  nano script.sh
+  129  cd ..
+  130  cd Desktop
+  131  nano script.sh
+  132  cd Desktop
+  133  nano script.sh
+  134  cd ..
+  135  nano script.sh
+  136  ./script.sh
+  137  chmod +x script.sh
+  138  ./script.sh
+  139  ./ script.sh
+  140  ./script.sh
+  141  sudo apk upload
+  142  sudo apt upgrade
+  143  sudo apt install
+  144  sudo apt install git
+  145  cd Desktop
+  146  mkdir cloud
+  147  git --version
+  148  cd cloud
+  149  git init
+  150  git config --list
+  151  git config --global user.name "ragavan123"
+  152  git config --list
+  153  git config --global user.email "ragavanmani2277@gmail.com"
+  154  git config --list
+  155  git config --global int defaultBranch main
+  156  git config --global int defaultBranch=main
+  157  git config --global init.defaultBranch main
+  158  git config --list
+  159  clear
+  160  git config --list
+  161  git config --global init.defaultBranch main
+  162  git config --list
+  163  git config --global core.eol lf
+  164  git config --list
+  165  git config --global core.ignorecase true
+  166  git config --list
+  167  git config --global core.autocrlf input
+  168  git config --list
+  169  ls
+  170  git clone https://github.com/M-RAGAVAN/democloud.git
+  171  ls
+  172  cd democloud
+  173  touch file.txt
+  174  ls
+  175  git add file.txt
+  176  cat > file.txt
+  177  cat file.txt
+  178  git commit -m "first commit"
+  179  git status
+  180  git add file.txt
+  181  git status
+  182  git commit -m "second commit"
+  183  git status
+  184  git push origin main
+  185  git remote -v
+  186  git remote set-url origin "https://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@github.com/M-RAGAVAN/democloud"
+  187  git remote -v
+  188  git push origin main
+  189  cd ..
+  190  mkdir gittest
+  191  cd gittest
+  192  touch test.txt
+  193  cat > test.txt
+  194  git commit -list
+  195  git commit --list
+  196  git config --list
+  197  git clone "https://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@github.com/M-RAGAVAN/democloud"
+  198  cd test.txt
+  199  git status
+  200  ls
+  201  cd test.txt
+  202  git add test.txt
+  203  git commit -m "first commit"
+  204  git status
+  205  ls
+  206  git add test.txt
+  207  mkdir democloud
+  208  cd democloud
+  209  touch test.txt
+  210  ls
+  211  git init
+  212  git add test.txt
+  213  git status
+  214  git push origin main
+  215  get remote -v
+  216  git remote -v
+  217  git remote set-url origin "https://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@github.com/M-RAGAVAN/democloud"
+  218  git cloud
+  219  git cloud -v
+  220  git commit -m "second commit"
+  221  git push origin main
+  222  git status
+  223  git remote -v
+  224  git remote set-url origin "https://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@github.com/M-RAGAVAN/democloud"
+  225  git clone "https://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@github.com/M-RAGAVAN/democloud.git"
+  226  git remote -v
+  227  cd test.txt
+  228  cd democloud
+  229  git remote -v
+  230  git push origin main
+  231  ls
+  232  git add test.txt
+  233  git push origin main
+  234  git remote -v
+  235  git status
+  236  git add file.txt
+  237  git commit -m "test commit"
+  238  git status
+  239  git push origin main
+  240  history
+  241  clear
+  242  cd sbin
+  243  clear
+  244  cd desktop
+  245  cd Desktop
+  246  cd cloud /democloud
+  247  cd cloud
+  248  cd democloud
+  249  cd file.txt
+  250  grep file.txt
+  251  nano file.txt
+  252  vim file.txt
+  253  history
+  254  cd ..
+  255  mkdir firewall_security_server
+  256  cd firewall_security_server
+  257  mkdir
+  258  mkdir firewall_logs
+  259  mkdir intrusion_detection
+  260  mkdir access_logs
+  261  mkdir security_repots
+  262  clear
+  263  ls
+  264  cd firewall_logs
+  265  touch file1.txt
+  266  cat > file1.txt
+  267  cd ..
+  268  cd access_logs
+  269  touch file2.txt
+  270  cat > file2.txt
+  271  cd ..
+  272  instrusion_detection
+  273  cd instrusion_detection
+  274  cd intrusion_detection
+  275  touch file3.txt
+  276  cat > file.txt
+  277  cd ..
+  278  cd security_repots
+  279  touch file4.txt
+  280  cat > file.txt
+  281  cat > file4.txt
+  282  cd ..
+  283  cd intrusion_detection
+  284  cat > file3.txt
+  285  touch text.txt
+  286  mv file3.txt
+  287  mv file3.txt test.txt
+  288  rm test.txt
+  289  cd Desktop
+  290  ls
+  291  cd firewall_security_server
+  292  cd intrusion_detection
+  293  touch file.txt
+  294  cat > file.txt
+  295  mv file.txt text.txt
+  296  rn text.txt
+  297  sudo text.txt
+  298  cd ..
+  299  pwd
+  300  ls
+  301  cd security_repots
+  302  touch security_alerts.txt
+  303  help
+  304  ch mod
+  305  ch mode 
+  306  ch mode.sh
+  307  ch mode security_alerts.txt
+  308  ch mode +x  security_alerts.txt
+  309  ch mode.sh  security_alerts.txt
+  310  chmod.sh  security_alerts.txt
+  311  chmod +x  security_alerts.txt
+  312  ll security_alerts
+  313  ll security_alerts.txt
+  314  mkdir firewall configuration
+  315  cd ..
+  316  cp firewall_security_server firewall configuration
+  317  mkdir firewall.configuration
+  318  cp firewall_security_server firewall configuration
+  319  cp firewall_security_server firewall.configuration
+  320  cp-r  firewall_security_server firewall.configuration
+  321  cp -r  firewall_security_server firewall.configuration
+  322  cd/var/log
+  323  cd /var/log
+  324  ls
+  325  cd ls
+  326  cd ..
+  327  Desktop
+  328  cd Desktop
+  329  cd ..
+  330  cd Desktop
+  331  cd firewall_security_server
+  332  cd Desktop
+  333  cd firewall_security_server
+  334  cd access_log
+  335  cd access_logs
+  336  rm file2.txt
+  337  cd ..
+  338  rm access_logs
+  339  rm -r access_logs
+  340  cd ..
+  341  ls
+  342  cd firewall_security_server
+  343  ls
+  344  script1.sh firewall_logs
+  345  cd firewall_logs
+  346  touch script1.sh
+  347  for script.sh;script.sh
+  348  nano script.sh
+  349  nano file1.txt
+  350  nano file1..sh
+  351  nano file1.sh
+  352  ./ file.sh
+  353  ./ file1.sh
+  354  chmod +x file1.sh
+  355  ./ file1.sh
+  356  ./file1.sh
+  357  chmod +x file1.sh
+  358  ./file1.sh
+  359  nano file1.sh
+  360  ./file1.sh
+  361  nano file1.sh
+  362  ./file1.sh
+  363  history
+  364  ps
+  365  cd ..
+  366  ps
+  367  top
+  368  ls -l
+  369  touch test.txt
+  370  vim test.txt
+  371  nano file1.sh
+  372  cd firewall_logs
+  373  nano file1.sh
+  374  cd ..
+  375  vim test.txt
+  376  cat test.txt
+  377  vim test.txt
+  378  cat test.txt
+  379  find file1.txt
+  380  find security_logs
+  381  mkdir access
+  382  deldir access
+  383  rm -r access
+  384  mkdir access_log
+  385  ls
+  386  cd access_log
+  387  touch file5.txt
+  388  cat > file5.txt
+  389  cd ..
+  390  grep "log" "firewall_security_server"
+  391  cd ..
+  392  grep "log" "firewall_security_server"
+  393  cd firewall_security_server
+  394  grep "log" "access_log" "firewall_log"
+  395  grep "log" "file1.txt" "file5.txt"
+  396  grep "log" "file1.txt"
+  397  cd access_log
+  398  grep "log" "file5.txt"
+  399  nano log.txt
+  400  vim file.txt
+  401  history
+  402  vim file.txt
+  403  cd Desktop
+  404  ls
+  405  firewall_security_system
+  406  firewall_security_server
+  407  cd firewall_security_server
+  408  cd ..
+  409  mkdir firewall_administor
+  410  mkdir data_analysts
+  411  cd firewall_administor
+  412  cp -r "firewall_security_server" "firewall_administor"
+  413  cd ..
+  414  cp -r "firewall_security_server" "firewall_administor"
+  415  ll firewall_administor
+  416  chmod 777
+  417  firewall_administor
+  418  cd firewall_administor
+  419  chmod 777
+  420  chmod 777 "firewall_administor"
+  421  cd ..
+  422  chmod 777 "firewall_administor"
+  423  ll firewall_administor
+  424  ll data_analysts
+  425  chmod 575 "data_analysts"
+  426  ll data_analysts
+  427  nano file.txt
+  428  cp -r "data_analysts" "security_reports"
+  429  cp -r "security_reports" "data_analysts"
+  430  cp -r "firewall_security_server\security_reports" "data_analysts"
+  431  cp -r "firewall_security_server/security_reports" "data_analysts"
+  432  cp -r "firewall_security_server.exe dir/security_reports" "data_analysts"
+  433  cd firewall_security_server
+  434  cp -r "security_reports" "data_analysts"
+  435  cd ..
+  436  mv 
+  437  mv -r data_analysts firewall_security_server
+  438  mv -r "data_analysts" "firewall_security_server"
+  439  mv "data_analysts" "firewall_security_server"
+  440  chmod 777 "data_analysts"
+  441  mv "data_analysts" "firewall_security_server"
+  442  cd firewall_security_server
+  443  cp -r security_reports data_analysts
+  444  cp -r "security_reports" "data_analysts"
+  445  ls
+  446  rm data_analysts
+  447  rm -r data_analysts
+  448  mkdir data_analysts
+  449  cp -r "security_reports" "data_analysts"
+  450  cd security_reports
+  451  cat > security_alerts.txt
+  452  cp -r "security_reports" "data_analysts"
+  453  mv data_analysts Desktop
+  454  rm -r desktop
+  455  rm -r Desktop
+  456  cd ..
+  457  mkdir data_analysts
+  458  cd firewall_security_server
+  459  nano if.txt
+  460  ./ if.txt
+  461  nano if.txt
+  462  ./ if.txt
+  463  ./if.txt
+  464  chmod 
+  465  chmod +x if.txt
+  466  ./if.txt
+  467  nano if.txt
+  468  ./if.txt
+  469  nano if.txt
+  470  ./if.txt
+  471  ls -l
+  472  ls
+  473  ls -ls
+  474  ls -ls >> size.txt
+  475  cat size.txt
+  476  touch file.txt
+  477  ll file.txt
+  478  chmod 777 file.txt
+  479  ll file.txt
+  480  cd firewall_logs
+  481  cat file1.txt
+  482  cat < file1.txt
+  483  cat > file1.txt
+  484  grep "11 "file1.txt""
+  485  grep "11" "file1.txt""
+grep "11" "file1.txt""
+  486  grep "11" file1.txt
+  487  vim file1.txt
+  488  grep "mass" "ragavan" file1.txt
+  489  grep "mass/ragavan" file1.txt
+  490  grep "mass\ragavan" file1.txt
+  491  grep "RAGAVAN" file1.txt
+  492  history
+  493  history >> his.txt

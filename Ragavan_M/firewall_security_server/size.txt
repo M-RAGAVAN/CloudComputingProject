@@ -1,0 +1,8 @@
+total 24
+4 drwxrwxr-x 2 administrator administrator 4096 Dec 16 16:28 access_log
+4 drwxrwxr-x 2 administrator administrator 4096 Dec 16 14:27 firewall_logs
+4 -rwxrwxr-x 1 administrator administrator  174 Dec 17 11:12 if.txt
+4 drwxrwxr-x 2 administrator administrator 4096 Dec 16 11:26 intrusion_detection
+4 drwxrwxr-x 2 administrator administrator 4096 Dec 17 10:59 security_repots
+0 -rw-rw-r-- 1 administrator administrator    0 Dec 17 11:24 size.txt
+4 -rw-rw-r-- 1 administrator administrator  344 Dec 16 14:47 test.txt
